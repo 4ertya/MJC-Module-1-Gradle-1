@@ -9,3 +9,5 @@
 
 rootProject.name = 'utils'
 include('utils')
+include 'api'
+
